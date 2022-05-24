@@ -1,0 +1,25 @@
+[ {
+  "id" : 1,
+  "firstName" : "Deepak",
+  "lastName" : "Moud"
+}, {
+  "id" : 2,
+  "firstName" : "Srinivasa Rao",
+  "lastName" : "Gumma"
+}, {
+  "id" : 3,
+  "firstName" : "Purna Chandra",
+  "lastName" : "Rao"
+}, {
+  "id" : 4,
+  "firstName" : "Madhavi Latha",
+  "lastName" : "Gumma"
+}, {
+  "id" : 5,
+  "firstName" : "Raghava",
+  "lastName" : "Reddy"
+}, {
+  "id" : 6,
+  "firstName" : "Ramesh Chandra",
+  "lastName" : "Dokku"
+} ]
